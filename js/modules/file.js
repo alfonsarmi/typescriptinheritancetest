@@ -1,3 +1,6 @@
+import * as testmodule from '../module.js';
+let val = testmodule.hello();  // val is "Hello";
+
 function getJSON(url, callback) {
   let xhr = new XMLHttpRequest();
   xhr.onload = function () { 
