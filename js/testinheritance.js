@@ -4,6 +4,7 @@ class test {
 
 	var a = 1;
 	var b = 1;
+	var holi = "holi";
 	if (a = 1)
 	{
 		if (a = 1 && b == 2 || b == 1)
