@@ -1,7 +1,7 @@
 import myClass2 from './testinheritance2.js';
 
 class test {
-
+//This is a comment
 	var a = 1;
 	var b = 1;
 	var holi = "holi";
@@ -46,11 +46,3 @@ class Animal {
     this.age = age;
   }
 }
-class Dog extends Animal {
-  constructor(name, age, color){
-    super(name, age)
-    this.color = color;
-  }
-}
-var myDog = new Dog("Fatty", 2, "Brown");
-console.log(myDog); // Produces an object.
