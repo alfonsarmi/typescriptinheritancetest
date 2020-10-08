@@ -1,7 +1,6 @@
 import myClass2 from './testinheritance2.js';
 
-class test
-{
+class test {
 
 	var a = 1;
 	var b = 1;
