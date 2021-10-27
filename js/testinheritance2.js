@@ -18,7 +18,7 @@ export class MyClass2 {
     }
 };
 
-class test2
+class test2 
 {
 
 	var a = 1;
